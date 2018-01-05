@@ -1,1 +1,1 @@
-# Craft-Redactor-Font-Colour
+CraftRedactorFontColour
