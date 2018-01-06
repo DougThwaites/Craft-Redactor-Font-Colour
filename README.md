@@ -1,6 +1,6 @@
 ![](header.png)
 
-## Redactor Font Colour
+## Redactor Font Color
 *Craft 2.5+*
 
 1. Download the ZIP file and extract
